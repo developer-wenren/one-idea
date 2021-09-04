@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/69c70a2f_mybatis-3-config.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://shardingsphere.apache.org/schema/shardingsphere/sharding/sharding.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/3f9c349a_sharding.xsd" />
+    <resource url="http://sofastack.io/schema/sofaboot.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/e8f527f8_sofaboot.xsd" />
+    <resource url="http://www.springframework.org/dtd/spring-beans-2.0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/75565afc_spring-beans-2.0.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/334543e7_spring-beans.xsd" />
+  </component>
+</application>

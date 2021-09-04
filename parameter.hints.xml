@@ -1,0 +1,18 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="com._520it.wms.web.action.AuditableAction.sendAuditInfo(success,message)" />
+        <added pattern="com.one.mybatis.util.UserMapper.delete(id)" />
+        <added pattern="org.apache.lucene.search.IndexSearcher.search(query,n)" />
+        <added pattern="com.xmg.p2p.base.util.AjaxResult.AjaxResult(success)" />
+        <added pattern="java.io.BufferedReader.BufferedReader(in)" />
+        <added pattern="org.hamcrest.core.Is.is(value)" />
+      </blacklist>
+      <blacklist language="JavaScript" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>

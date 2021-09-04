@@ -1,0 +1,24 @@
+<templateSet group="ABC_ONE">
+  <template name="syso" value="System.out.println($VAR$);&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pum" value="public $TYPE$ $NAME$($PARAM$) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pvm" value="private $TYPE$ $NAME$($PARAM$) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="void" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="anc" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="asd" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
