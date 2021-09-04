@@ -1,0 +1,32 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="注意看工程README" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="WEB-INF" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsfilePROD" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="protocol" type="PLAIN_TEXT" />
+      <mapping ext="si" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="log_old" type="PLAIN_TEXT" />
+      <mapping ext="cfe" type="PLAIN_TEXT" />
+      <mapping ext="gen" type="PLAIN_TEXT" />
+      <mapping ext="property" type="PLAIN_TEXT" />
+      <mapping ext="nssyncsc" type="PLAIN_TEXT" />
+      <mapping ext="cfs" type="PLAIN_TEXT" />
+      <mapping ext="propreties" type="Properties" />
+      <mapping pattern="hello-ant" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
