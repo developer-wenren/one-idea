@@ -1,0 +1,166 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/zuul-1.x/zuul-simple-webapp" value="PREVIEW" />
+            <entry key="$USER_HOME$/Nustore Files/One/OpenSource/gradle-action/gradle-java" value="PREVIEW" />
+            <entry key="$USER_HOME$/Nustore Files/One/OpenSource/spring-framework" value="PREVIEW" />
+            <entry key="$USER_HOME$/Nutstore Files/One/OpenSource/zuul" value="PREVIEW" />
+            <entry key="$USER_HOME$/Nutstore Files/One/OpenSource/zuul-1.3.1" value="PREVIEW" />
+            <entry key="$USER_HOME$/Nutstore Files/One/OpenSource/zuul/zuul-core" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="$USER_HOME$/Nutstore Files/Tools/.m2/repository" />
+            <option name="userSettingsFile" value="$USER_HOME$/Nutstore Files/Tools/.m2/settings_home.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Ali-Check</id>
+              </State>
+              <State>
+                <id>CodeSpring CoreSpring</id>
+              </State>
+              <State>
+                <id>Gradle</id>
+              </State>
+              <State>
+                <id>Inheritance issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Maven</id>
+              </State>
+              <State>
+                <id>Probable bugsGradle</id>
+              </State>
+              <State>
+                <id>SetupSpring CoreSpring</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>Spring CoreSpring</id>
+              </State>
+              <State>
+                <id>Spring OSGiSpring</id>
+              </State>
+              <State>
+                <id>XMLSpring CoreSpring</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ali-Check</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SpringGeneralSettings">
+        <option name="allowAutoConfigurationMode" value="true" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>lombok</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

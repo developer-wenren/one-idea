@@ -1,0 +1,25 @@
+<templateSet group="jQuery">
+  <template name="jd" value="$(function () {&#10;    $END$&#10;})" description="jquery document load" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jc" value="$(&quot;.$VAR$&quot;)$END$" description="jQuery Class Selector" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ji" value="$(&quot;#$VAR$&quot;)$END$" description="jQuery ID Selector" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jj" value="$($VAR$)$END$" description="jQuery Object" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

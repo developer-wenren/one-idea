@@ -1,0 +1,26 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="851" />
+    <option name="newTranslationDialogY" value="450" />
+    <histories>
+      <item value="The maximum number of unacknowledged requests the client will send on a single connection before blocking.&quot; + &quot; Note that if this setting is set to be greater than 1 and there are failed sends, there is a risk of&quot; + &quot; message re-ordering due to retries (i.e., if retries are enabled).&quot;;" />
+      <item value="The producer groups together any records that arrive in between request transmissions into a single batched request. &quot; + &quot;Normally this occurs only under load when records arrive faster than they can be sent out. However in some circumstances the client may want to &quot; + &quot;reduce the number of requests even under moderate load. This setting accomplishes this by adding a small amount &quot; + &quot;of artificial delay&amp;mdash;that is, rather than immediately sending out a record the producer will wait for up to &quot; + &quot;the given delay to allow other records to be sent so that the sends can be batched together. This can be thought &quot; + &quot;of as analogous to Nagle's algorithm in TCP. This setting gives the upper bound on the delay for batching: once &quot; + &quot;we get &lt;code&gt;&quot; + BATCH_SIZE_CONFIG + &quot;&lt;code&gt; worth of records for a partition it will be sent immediately regardless of this &quot; + &quot;setting, however if we have fewer than this many bytes accumulated for this partition we will 'linger' for the &quot; + &quot;specified time waiting for more records to show up. This setting defaults to 0 (i.e. no delay). Setting &lt;code&gt;&quot; + LINGER_MS_CONFIG + &quot;=5&lt;code&gt;, &quot; + &quot;for example, would have the effect of reducing the number of requests sent but would add up to 5ms of latency to records sent in the absense of load.&quot;;" />
+      <item value="private static final String LINGER_MS_DOC = &quot;The producer groups together any records that arrive in between request transmissions into a single batched request. &quot;" />
+      <item value="linger" />
+      <item value="LINGER MS CONFIG" />
+      <item value="accumulator" />
+      <item value="all the bound and bindable properties" />
+      <item value="all the bound and bindable properties available" />
+      <item value="all the bound and bindable properties available " />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1623375048299" />
+  </component>
+</application>

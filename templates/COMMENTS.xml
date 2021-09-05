@@ -1,0 +1,12 @@
+<templateSet group="COMMENTS">
+  <template name="cc" value="// $END$" description="qucik comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cmd" value="/**$END$" description="qucik print document comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
