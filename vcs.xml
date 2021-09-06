@@ -134,6 +134,14 @@
           <option name="url" value="git@codechina.csdn.net:KnowledgePlanet/Lottery.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.jd.com/xstore-warehouse/xstore-wms-router.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.jd.com:xstore-warehouse/xstore-wms-router.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/One/OpenSource" />
