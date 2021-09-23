@@ -18,6 +18,21 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="xstore-dms-gateway">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="xstore-dms-gateway" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="xstore-wms-man">
           <value>
             <ProjectSettings>
@@ -64,6 +79,14 @@
                 </Template>
               </option>
               <option name="testDirectoryRoot" value="gateway-web/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="xstore-dms-gateway_xstore-dms-gateway-service">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="xstore-dms-gateway-service" />
+              <option name="testDirectoryRoot" value="xstore-dms-gateway-service/src/test/java" />
             </ModuleSettings>
           </value>
         </entry>
