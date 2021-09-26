@@ -33,6 +33,21 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="xstore-dms-rule-man">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="xstore-dms-rule-man" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="xstore-wms-man">
           <value>
             <ProjectSettings>
@@ -87,6 +102,14 @@
             <ModuleSettings>
               <option name="moduleName" value="xstore-dms-gateway-service" />
               <option name="testDirectoryRoot" value="xstore-dms-gateway-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="xstore-dms-rule-man_xstore-dms-rule-man-spi-7fresh-impl">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="xstore-dms-rule-man-spi-7fresh-impl" />
+              <option name="testDirectoryRoot" value="xstore-dms-rule-man-service/src/test/java" />
             </ModuleSettings>
           </value>
         </entry>
