@@ -63,6 +63,21 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="xstore-wms-router">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="xstore-wms-router" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="projectNameModuleNameToSettingsMap">
@@ -118,6 +133,14 @@
             <ModuleSettings>
               <option name="moduleName" value="xstore-wms-man-server" />
               <option name="testDirectoryRoot" value="xstore-wms-man-server/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="xstore-wms-router_xstore-wms-router-service">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="xstore-wms-router-service" />
+              <option name="testDirectoryRoot" value="xstore-wms-router-service/src/test/java" />
             </ModuleSettings>
           </value>
         </entry>
