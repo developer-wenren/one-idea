@@ -28,15 +28,19 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Compile" />
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="Console.Oracle.DbmsOutput" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.DeleteRows" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Diff.ShowDiff" />
   <action id="ECTranslation">
     <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="meta t" />
@@ -44,6 +48,7 @@
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
@@ -70,6 +75,7 @@
     <keyboard-shortcut first-keystroke="meta alt m" />
     <keyboard-shortcut first-keystroke="ctrl meta 4" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
@@ -98,6 +104,9 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
@@ -208,6 +217,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <keyboard-shortcut first-keystroke="ctrl meta b" />
@@ -233,6 +243,7 @@
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleFullScreen" />
   <action id="ToggleLineBreakpoint" />
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Push" />
   <action id="Vcs.ShowTabbedFileHistory">
