@@ -16,6 +16,7 @@
       <mapping ext="log_old" type="PLAIN_TEXT" />
       <mapping ext="cfe" type="PLAIN_TEXT" />
       <mapping ext="gen" type="PLAIN_TEXT" />
+      <mapping ext="onetoc2" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="nssyncsc" type="PLAIN_TEXT" />
       <mapping ext="cfs" type="PLAIN_TEXT" />
