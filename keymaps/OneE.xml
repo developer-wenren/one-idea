@@ -1,4 +1,8 @@
 <keymap version="1" name="OneE" parent="Eclipse (Mac OS X)">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
@@ -44,6 +48,9 @@
   <action id="ECTranslation">
     <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift alt g" />
