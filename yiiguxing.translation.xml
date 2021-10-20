@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Represents the lease information with Eureka.&#10;Eureka decides to remove the instance out of its view depending on the duration that is set in EurekaInstanceConfig.getLeaseExpirationDurationInSeconds() which is held in this lease. The lease also tracks the last time it was renewed.&#10;Author:&#10;Karthik Ranganathan, Greg Kim" />
       <item value="      Users can override to clean up the environment themselves.&#10;" />
       <item value="         Copy registry from neighboring eureka node&#10;" />
       <item value="get Peer Eureka Nodes" />
