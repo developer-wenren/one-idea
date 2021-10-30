@@ -75,6 +75,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="EvaluateExpression" />
   <action id="ExtractFunction">
     <keyboard-shortcut first-keystroke="meta alt m" />
   </action>
@@ -256,6 +257,9 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <mouse-shortcut keystroke="button3 doubleClick" />
   </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="XDebugger.Inspect" />
   <action id="free-mabatis-generate-action">
     <keyboard-shortcut first-keystroke="meta m" />
@@ -270,4 +274,5 @@
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
 </keymap>
