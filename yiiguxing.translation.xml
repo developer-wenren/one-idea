@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Replicates all instance changes to peer eureka nodes except for&#10;      replication traffic to this node." />
       <item value="overridden" />
       <item value="overridden Instance Status Map" />
       <item value="existing Last Dirty Timestamp" />
