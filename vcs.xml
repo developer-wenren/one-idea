@@ -154,6 +154,10 @@
           <option name="url" value="http://coding.jd.com" />
           <option name="userName" value="wenrenchaojie1" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.jd.com/mca-dms/mca-dms-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects" />
