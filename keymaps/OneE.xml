@@ -200,6 +200,7 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ReformatCode" />
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
