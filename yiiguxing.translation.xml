@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="    &#10;      Mark the service as up. This will only take affect the first time called,&#10;      subsequent calls will be ignored.&#10;     " />
       <item value="      Renew the lease, use renewal duration if it was specified by the&#10;      associated {@link T} during registration, otherwise default duration is&#10;      {@link DEFAULT_DURATION_IN_SECS}." />
       <item value="delta" />
       <item value="del" />
