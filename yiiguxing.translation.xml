@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="         We collect first all expired items, to evict them in random order. For large eviction sets,&#10;         if we do not that, we might wipe out whole apps before self preservation kicks in. By randomizing it,&#10;         the impact should be evenly distributed across all applications.&#10;      " />
+      <item value="          compute a compensation time defined as the actual time this task was executed since the prev iteration,&#10;          vs the configured amount of time for execution. This is useful for cases where changes in time (due to&#10;          clock skew or gc for example) causes the actual eviction task to execute later than the desired time&#10;          according to the configured cycle.&#10;         " />
       <item value="         Renewals happen every 30 seconds and for a minute it should be a factor of 2.&#10;" />
       <item value="    &#10;      Mark the service as up. This will only take affect the first time called,&#10;      subsequent calls will be ignored.&#10;     " />
       <item value="      Renew the lease, use renewal duration if it was specified by the&#10;      associated {@link T} during registration, otherwise default duration is&#10;      {@link DEFAULT_DURATION_IN_SECS}." />
