@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="     Indicates whether or not this instance should register its information&#10;      with eureka server for discovery by others." />
+      <item value="    &#10;      Indicates whether or not this instance should register its information&#10;      with eureka server for discovery by others.&#10;     &#10;      &lt;p&gt;&#10;      In some cases, you do not want your instances to be discovered whereas&#10;      you just want do discover other instances.&#10;      &lt;p&gt;&#10;     &#10;      @return true if this instance should register with eureka, false&#10;              otherwise&#10;     " />
       <item value="Swaps the elements at the specified positions in the specified list. (If the specified positions are equal, invoking this method leaves the list unchanged.)" />
       <item value="      Checks if the lease of a given {@link com.netflix.appinfo.InstanceInfo} has expired or not.&#10;     &#10;      Note that due to renew() doing the 'wrong&quot; thing and setting lastUpdateTimestamp to +duration more than&#10;      what it should be, the expiry will actually be 2  duration. This is a minor bug and should only affect&#10;      instances that ungracefully shutdown. Due to possible wide ranging impact to existing usage, this will&#10;      not be fixed.&#10;     " />
       <item value="         We collect first all expired items, to evict them in random order. For large eviction sets,&#10;         if we do not that, we might wipe out whole apps before self preservation kicks in. By randomizing it,&#10;         the impact should be evenly distributed across all applications.&#10;      " />
@@ -41,7 +43,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635980408919" />
+    <option name="lastTrimTime" value="1636809545365" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
