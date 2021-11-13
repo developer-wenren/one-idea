@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="decorate Instance Info" />
+      <item value="         To compensate for GC pauses or drifting local time, we need to use current registry size as a base for&#10;         triggering self-preservation. Without that we would wipe out full registry." />
+      <item value="         We collect first all expired items, to evict them in random order. For large eviction sets,&#10;         if we do not that, we might wipe out whole apps before self preservation kicks in. By randomizing it,&#10;         the impact should be evenly distributed across all applications." />
       <item value="     Indicates whether or not this instance should register its information&#10;      with eureka server for discovery by others." />
       <item value="    &#10;      Indicates whether or not this instance should register its information&#10;      with eureka server for discovery by others.&#10;     &#10;      &lt;p&gt;&#10;      In some cases, you do not want your instances to be discovered whereas&#10;      you just want do discover other instances.&#10;      &lt;p&gt;&#10;     &#10;      @return true if this instance should register with eureka, false&#10;              otherwise&#10;     " />
       <item value="Swaps the elements at the specified positions in the specified list. (If the specified positions are equal, invoking this method leaves the list unchanged.)" />
