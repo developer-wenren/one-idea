@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Convenience annotation for clients to enable Eureka discovery configuration (specifically). Use this (optionally) in case you want discovery and know for sure that it is Eureka you want. All it does is turn on discovery and let the autoconfiguration find the eureka classes if they are available (i.e. you need Eureka on the classpath as well)." />
       <item value="decorate Instance Info" />
       <item value="         To compensate for GC pauses or drifting local time, we need to use current registry size as a base for&#10;         triggering self-preservation. Without that we would wipe out full registry." />
       <item value="         We collect first all expired items, to evict them in random order. For large eviction sets,&#10;         if we do not that, we might wipe out whole apps before self preservation kicks in. By randomizing it,&#10;         the impact should be evenly distributed across all applications." />
