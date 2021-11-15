@@ -1,0 +1,154 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="super-store-gateway">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="super-store-gateway" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+        <entry key="xstore-dms-gateway">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="xstore-dms-gateway" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+        <entry key="xstore-dms-rule-man">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="xstore-dms-rule-man" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+        <entry key="xstore-wms-man">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="xstore-wms-man" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+        <entry key="xstore-wms-router">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="xstore-wms-router" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="super-store-gateway_gateway-common">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="gateway-common" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="testDirectoryRoot" value="gateway-web/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="super-store-gateway_gateway-web">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="gateway-web" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="dms.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-dms.java" />
+                </Template>
+              </option>
+              <option name="testDirectoryRoot" value="gateway-web/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="xstore-dms-gateway_xstore-dms-gateway-service">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="xstore-dms-gateway-service" />
+              <option name="testDirectoryRoot" value="xstore-dms-gateway-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="xstore-dms-rule-man_xstore-dms-rule-man-spi-7fresh-impl">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="xstore-dms-rule-man-spi-7fresh-impl" />
+              <option name="testDirectoryRoot" value="xstore-dms-rule-man-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="xstore-wms-man_xstore-wms-man-server">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="xstore-wms-man-server" />
+              <option name="testDirectoryRoot" value="xstore-wms-man-server/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="xstore-wms-router_xstore-wms-router-service">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="xstore-wms-router-service" />
+              <option name="testDirectoryRoot" value="xstore-wms-router-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="openTestFilePreference" value="ALWAYS_IN_NEXT_EDITOR" />
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="7e969211-b567-412e-aec2-80d551c4ad3c" />
+  </component>
+</application>

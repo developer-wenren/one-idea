@@ -146,9 +146,21 @@
           <option name="url" value="http://git.jd.com" />
           <option name="userName" value="wenrenchaojie1" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.jd.com/xstore-warehouse/xstore-dms-rule-man.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://coding.jd.com" />
+          <option name="userName" value="wenrenchaojie1" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.jd.com/mca-dms/mca-dms-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/One/OpenSource" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
@@ -157,10 +169,10 @@
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
-        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
+        <option value="Default.Subject" />
       </list>
     </option>
   </component>
