@@ -5,10 +5,10 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="WEB-INF" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfilePROD" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="protocol" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="processor" type="PLAIN_TEXT" />
