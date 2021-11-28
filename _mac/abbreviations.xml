@@ -1,0 +1,8 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="FileChooser.NewFile" />
+      <action id="FindInPath" />
+    </abbreviations>
+  </component>
+</application>
