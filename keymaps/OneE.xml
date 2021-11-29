@@ -43,6 +43,14 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="ECTranslation">
@@ -207,6 +215,7 @@
   <action id="ReloadInBrowserAction">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="RemoteHostView.CopyPaths" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl meta 1" />
   </action>
@@ -261,6 +270,7 @@
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="WelcomeScreen.CopyProjectPath" />
   <action id="XDebugger.Inspect" />
   <action id="free-mabatis-generate-action">
     <keyboard-shortcut first-keystroke="meta m" />
@@ -276,4 +286,5 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
