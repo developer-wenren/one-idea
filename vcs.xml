@@ -182,6 +182,10 @@
           <option name="url" value="https://coding.jd.com/wenrenchaojie1/whitelist-spring-boot-starter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.jd.com/xstore-warehouse/xstore-wms-business.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects" />
